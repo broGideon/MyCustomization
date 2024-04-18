@@ -1,0 +1,59 @@
+{
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+
+    
+    "editor.fontFamily": "Hack Nerd Font",
+    "window.commandCenter": false,
+    "workbench.editor.editorActionsLocation": "hidden",
+
+    "workbench.layoutControl.enabled": false,
+    "window.titleBarStyle": "custom",
+
+    //"vscode_vibrancy.opacity": 0.5,
+    //"vscode_vibrancy.refreshInterval": 10,
+    //"vscode_vibrancy.type": "acrylic",
+    "workbench.activityBar.location": "hidden",
+    "workbench.statusBar.visible": false,
+    "search.defaultViewMode": "list",
+    "window.menuBarVisibility": "hidden",
+    "workbench.editor.showTabs": "single",
+    "breadcrumbs.enabled": false,
+    "editor.glyphMargin": false,
+    "editor.minimap.autohide": true,
+    "diffEditor.renderMarginRevertIcon": false,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "editor.stickyScroll.enabled": true,
+
+    "window.restoreWindows": "none",
+    "editor.guides.indentation": false,
+    "tabnine.experimentalAutoImports": true,
+    "explorer.confirmDelete": false,
+    "background.windowBackgrounds": [
+        "C:\\Users\\eto_d\\OneDrive\\Рабочий стол\\ \\фотки\\фотки важно\\MyMainGifWallpaper.gif"
+    ],
+    "background.backgroundBlur": [
+        "10px",
+        "10px",
+        "10px",
+        "10px"
+    ],
+    "background.backgroundOpacity": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+    ],
+    "background.autoInstall": true,
+    "workbench.colorTheme": "purple vampire",
+    "cmake.showOptionsMovedNotification": false,
+    "frosted-glass-theme.revealEffect.enabled": true,
+    "indentRainbow.indicatorStyle": "light",
+    "indentRainbow.lightIndicatorStyleLineWidth": 2,
+    "indentRainbow.excludedLanguages": [
+        "plaintext"
+    ],
+    "solidity.telemetry": true,
+}
