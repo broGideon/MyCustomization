@@ -4,7 +4,7 @@
     },
 
     
-    "editor.fontFamily": "Hack Nerd Font",
+    "editor.fontFamily": "FiraCode Nerd Font",
     "window.commandCenter": false,
     "workbench.editor.editorActionsLocation": "hidden",
 
@@ -32,7 +32,7 @@
     "tabnine.experimentalAutoImports": true,
     "explorer.confirmDelete": false,
     "background.windowBackgrounds": [
-        "C:\\Users\\eto_d\\OneDrive\\Рабочий стол\\ \\фотки\\фотки важно\\MyMainGifWallpaper.gif"
+        "C:\\Users\\broGideon\\Pictures\\Saved Pictures\\MyMainGif.gif"
     ],
     "background.backgroundBlur": [
         "10px",
@@ -56,4 +56,18 @@
         "plaintext"
     ],
     "solidity.telemetry": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "github.copilot.editor.enableAutoCompletions": true,
+    "cmake.additionalCompilerSearchDirs": [
+        "C:/msys64/mingw32/bin",
+        "C:/msys64/mingw64/bin",
+        "C:/msys64/clang32/bin",
+        "C:/msys64/clang64/bin",
+        "C:/msys64/clangarm64/bin",
+        "C:/msys64/ucrt64/bin"
+    ],
+    "cmake.pinnedCommands": [
+        "workbench.action.tasks.configureTaskRunner",
+        "workbench.action.tasks.runTask"
+    ]
 }
