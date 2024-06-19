@@ -14,16 +14,16 @@
 @import url(https://raw.githubusercontent.com/EtoNeAnanas95/MyCustomization/main/BetterDiscord/source.css);
 
 :root {
-	--app-bg: url(https://github.com/EtoNeAnanas95/MyCustomization/blob/main/wallpapers/MyMainGifWallpaper.gif?raw=true);
+	--app-bg: url(https://raw.githubusercontent.com/broGideon/MyCustomization/main/wallpapers/cutDragonGifWallpaper.gif);
 	--app-blur: 12px;
 	--app-margin: 24px;
 	--app-radius: 8px; 
 	
-	--accent-hue: 284;
+	--accent-hue: 240;
 	--accent-saturation: 77.5%;
 	--accent-lightness: 47.1%;
 	--accent-opacity: 1;
-	--accent-text-color: #e1c2f4; /*	-	*/
+	--accent-text-color: #ffffff; /*	-	*/
 
 	--sidebar-color: rgba(23,7,34,0.4);
 	--main-content-color: rgba(23,7,34,0.6); /*	-	*/
@@ -58,6 +58,6 @@
 	--interactive-active: #fff;
 	--interactive-muted: #777; /*	-	*/
 
-	--background-modifier-hover: #e1c2f4;
+	--background-modifier-hover: #7796eb;
 	--background-modifier-selected: rgba(255,255,255,0.125);
 }
