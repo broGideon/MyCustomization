@@ -1,4 +1,4 @@
-oh-my-posh init pwsh --config "C:\Users\eto_d\AppData\Local\Programs\oh-my-posh\themes\bubbles.omp.json" | Invoke-Expression;
+oh-my-posh init pwsh --config "C:\Users\broGideon\AppData\Local\Programs\oh-my-posh\themes\bubbles.omp.json" | Invoke-Expression;
 clear;
 
 New-Alias -Name c -Value clear
